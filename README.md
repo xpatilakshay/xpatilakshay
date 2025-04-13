@@ -1,78 +1,85 @@
-<h1 align="center">Hi 👋, I'm Akshay Rajaram Patil</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | B.Sc. CS - 9.63 CGPA</h3>
+<h1 align="center">Hey there 👋, I'm Akshay Rajaram Patil</h1>
+<h3 align="center">🎓 B.Sc. CS | 🧠 Data Analyst | 📊 Python • SQL • Power BI | Navi Mumbai</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Turning+Data+Into+Decisions...;Lifelong+Learner+%7C+Data+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Data+Driven.+Detail+Oriented.+Results+Focused.;Let's+turn+data+into+decisions!+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-🎓 I'm currently pursuing **B.Sc. in Computer Science** from KBP College, Vashi, graduating in 2025 with a CGPA of **9.63**.  
-💡 Passionate about extracting actionable insights through data and using analytics to solve real-world challenges.  
-🚀 Transitioning into **Data Science** & **AI**, constantly expanding my knowledge.  
-📍 Based in Ghansoli, Navi Mumbai.
+- 🎓 **Graduated B.Sc. in Computer Science** from KBP College, Vashi with a **CGPA of 9.63**
+- 📍 Based in **Ghansoli, Navi Mumbai**
+- 🔍 Passionate about solving real-world problems through data
+- 📊 Skilled in **Python**, **SQL**, **Power BI**, **Pandas**, and **Matplotlib**
+- 💬 Constant learner transitioning into **Data Science** and **AI**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Languages & Analysis:** Python, SQL, Java, Pandas, NumPy, Matplotlib  
-- **Data Visualization:** Power BI, Matplotlib  
-- **Databases:** MySQL  
-- **Web Technologies:** HTML, CSS  
-- **Tools & IDEs:** Jupyter Notebook, VS Code  
-- **Version Control:** Git & GitHub  
-- **Frameworks & Libraries:** OpenCV, Java Swing (GUI), Pandas, NumPy  
-- **Soft Skills:** Analytical Thinking, Problem Solving, Communication
+### 💻 Languages & Tools  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+### 📦 Libraries & Tools  
+- **Data Wrangling & Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Power BI  
+- **Database:** MySQL  
+- **Tools:** Jupyter Notebook, VS Code, Git & GitHub  
 
 ---
 
-## 📊 Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [🎯 Face Attendance System](https://github.com/xpatilakshay/Face-Attendance-System.git) | Real-time attendance using Python & OpenCV, facial data stored and exported to CSV. |
-| [👨‍💼 Employee Management System (Java)](https://github.com/xpatilakshay/Employee-Management-System-Java-Projects.git) | GUI-based CRUD application using Java Swing with MySQL backend. |
-| [📈 Pandas Data Analysis](https://github.com/xpatilakshay/Data-Analytics.git) | Data cleaning, exploration, and visualization using Pandas and Matplotlib. |
-
----
-
-## 📜 Certifications
-
-- [Python for Data Science, AI, and Development (IBM - Coursera)](https://coursera.org/share/d9d03966d7a7f3508f21be8fc6559da9)  
-- [Introduction to Cybersecurity Tools and Cyberattacks (IBM - Coursera)](https://coursera.org/share/ea54e8c7b3a2b81ad953559df9c3b96a)  
-- [Python Programming – Infosys](https://drive.google.com/file/d/1di3wjU2n0j2MuU5fBByYMH2UP3BfJ-E2/view?usp=sharing)  
-- [Power BI Certification – Prism Edu Skills](https://drive.google.com/file/d/1lFawJDBOnY3JIUAdqbsTcIP9Oux0kfSf/view?usp=sharing)
+| Project | Tech Stack | Highlights |
+|--------|------------|------------|
+| [📷 Face Attendance System](https://github.com/xpatilakshay/Face-Attendance-System.git) | Python, OpenCV, CSV | Real-time face recognition for attendance with CSV export |
+| [💼 Employee Management System](https://github.com/xpatilakshay/Employee-Management-System-Java-Projects.git) | Java Swing, MySQL | GUI CRUD system for employee data |
+| [📊 Data Analysis using Pandas](https://github.com/xpatilakshay/Data-Analytics.git) | Python, Pandas, Matplotlib | Insightful analysis & visualization of real-world datasets |
 
 ---
 
-## 💼 Internship Experience
+## 🎓 Certifications
 
-- **Jetking (30 Hours)** – Hands-on IT and analytics training.
+- [📘 IBM: Python for Data Science, AI, and Development](https://coursera.org/share/d9d03966d7a7f3508f21be8fc6559da9)  
+- [🔐 IBM: Intro to Cybersecurity Tools & Attacks](https://coursera.org/share/ea54e8c7b3a2b81ad953559df9c3b96a)  
+- [🐍 Infosys: Python Programming](https://drive.google.com/file/d/1di3wjU2n0j2MuU5fBByYMH2UP3BfJ-E2/view?usp=sharing)  
+- [📊 Power BI - Prism Edu Skills](https://drive.google.com/file/d/1lFawJDBOnY3JIUAdqbsTcIP9Oux0kfSf/view?usp=sharing)
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 First Rank – 2nd Year B.Sc. CS  
-- 🥉 Third Rank – 1st Year B.Sc. CS  
-- ✨ 1-Year Active NSS Volunteer  
+- 🥇 **1st Rank** – Second Year B.Sc. CS  
+- 🥉 **3rd Rank** – First Year B.Sc. CS  
+- 🎯 Active Member – National Service Scheme (NSS)
 
 ---
 
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="mailto:xpatilakshay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/xpatilakshay/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/xpatilakshay"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xpatilakshay&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xpatilakshay&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xpatilakshay&show_icons=true&theme=tokyonight&hide_border=false" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=xpatilakshay&theme=tokyonight" width="48%"/>
 </p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:xpatilakshay@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/xpatilakshay/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/xpatilakshay"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ *"Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee*
