@@ -2,8 +2,12 @@
 <h3 align="center">🎓 B.Sc. CS | 🧠 Data Analyst | 📊 Python • SQL • Power BI | Navi Mumbai</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Data+Driven.+Detail+Oriented.+Results+Focused.;Let's+turn+data+into+decisions!+🚀" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=600&lines=Data+Driven.+Detail+Oriented.+Results+Focused.;Let%27s+turn+data+into+decisions!+🚀" 
+    alt="Typing animation that says: Data Driven. Detail Oriented. Results Focused. Let's turn data into decisions! 🚀"
+  />
 </p>
+
 
 ---
 
