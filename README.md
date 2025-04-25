@@ -83,11 +83,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xpatilakshay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xpatilakshay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="40%" />
 </p>
 
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=xpatilakshay&theme=tokyonight&hide_border=true&date=20250423" />
+  <img src="https://streak-stats.demolab.com?user=xpatilakshay&theme=tokyonight&hide_border=true&date=20250423" width="40%" />
 </p>
 
 <p align="center">
