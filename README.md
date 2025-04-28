@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies 
 
 ### 💻 Languages, Libraries & Tools  
 <p align="center">
