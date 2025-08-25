@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <br><br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   &nbsp;
