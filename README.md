@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Akshay Rajaram Patil</h1>
-<h3 align="center">🎓 B.Sc. CS | 🧠 Data Analyst | 📊 Python • SQL • Power BI | Navi Mumbai</h3>
+<h3 align="center">🎓 B.Sc. CS | 🧠 Aspiring Data Scientist | 📊 Python • SQL • Power BI | Navi Mumbai</h3>
 
 <p align="center">
   <img 
@@ -15,7 +15,7 @@
 - 🎓 **Graduated B.Sc. in Computer Science** from KBP College, Vashi with a **CGPA of 9.63**
 - 📍 Based in **Ghansoli, Navi Mumbai**
 - 🔍 Passionate about solving real-world problems through data
-- 📊 Skilled in **Python**, **SQL**, **Power BI**, **Pandas**, and **Matplotlib**
+- 📊 Skilled in **Python**, **SQL**,**FAISS**,**Power BI**,**NumPy** **Pandas**, **Matplotlib** and **Seaborn**
 - 💬 Constant learner transitioning into **Data Science** and **AI**
 
 ---
