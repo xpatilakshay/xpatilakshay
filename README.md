@@ -82,21 +82,34 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xpatilakshay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="40%" />
-</p>
-
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=xpatilakshay&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpatilakshay&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<table align="center">
+  <tr>
+    <!-- Total GitHub Stats -->
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=xpatilakshay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="350"/>
+    </td>
+    <!-- Streak Stats -->
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=xpatilakshay&theme=tokyonight&hide_border=true" width="350"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Top Languages -->
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpatilakshay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="350"/>
+    </td>
+    <!-- Contribution Graph -->
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=xpatilakshay&theme=tokyonight&hide_border=true&area=true" width="350"/>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
 
 ## 📫 Let's Connect
 
