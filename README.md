@@ -1,124 +1,49 @@
-<h1 align="center">Hey there 👋, I'm Akshay Rajaram Patil</h1>
-<h3 align="center">🎓 B.Sc. CS | 🧠 Aspiring Data Scientist | 📊 Python • SQL • Power BI | Navi Mumbai</h3>
+# Akshay Patil
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Driven.+Detail+Oriented.+Results+Focused.;Let's+turn+data+into+decisions!+🚀" 
-    alt="Typing animation that says: Data Driven. Detail Oriented. Results Focused. Let's turn data into decisions! 🚀"
-  />
-</p>
+**AI & Python Engineer** — LangChain · LangGraph · MCP · RAG · FastAPI · Django
+
+Building LLM systems that reach production, not demos. Currently at Tata Consultancy Services, working on agentic workflows and enterprise automation.
+
+📍 Navi Mumbai, India &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/heyakshaypatil) &nbsp;·&nbsp; akshay434341@gmail.com
 
 ---
 
-## 🧑‍💻 About Me
+## What I Do
 
-- 🎓 **Graduated B.Sc. in Computer Science** from KBP College, Vashi with a **CGPA of 9.63**
-- 📍 Based in **Ghansoli, Navi Mumbai**
-- 🔍 Passionate about solving real-world problems through data
-- 📊 Skilled in **Python**, **SQL**, **FAISS**, **Power BI**, **NumPy**, **Pandas**, **Matplotlib** and **Seaborn**
-- 💬 Constant learner transitioning into **Data Science** and **AI**
+I design and ship LLM-backed systems end to end — from tool schema design and prompt architecture through to production deployment and monitoring.
 
----
+**At Tata Consultancy Services** — Designed and shipped an autonomous incident-resolution agent built on Copilot Studio, Power Automate and Dataverse. Took it from architecture through production Go-Live, including a full data-layer migration from SharePoint lists to Dataverse and hardening of concurrent flow execution.
 
-## 🛠️ Skills & Technologies 
-
-### 💻 Languages, Libraries & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### 📦 Libraries & Tools  
-- **Data Wrangling & Analysis:** Pandas, NumPy  
-- **Visualization:** Matplotlib, Power BI  
-- **Database:** MySQL  
-- **Tools:** Jupyter Notebook, VS Code, Git & GitHub  
+**At Smartinfologiks** — Built 100+ Python tools integrated with LangChain and exposed via the Model Context Protocol, authoring tool schemas across multiple tool types. Engineered 50+ LLM personas with tuned decoding parameters — temperature, top-p, top-k and stop sequences — balancing output quality against determinism and cost.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Focus
 
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| [📷 Face Attendance System](https://github.com/xpatilakshay/Face-Attendance-System.git) | Python, OpenCV, CSV | Real-time face recognition for attendance with CSV export |
-| [💼 Employee Management System](https://github.com/xpatilakshay/Employee-Management-System-Java-Projects.git) | Java Swing, MySQL | GUI CRUD system for employee data |
-| [📊 Data Analysis using Pandas](https://github.com/xpatilakshay/Data-Analytics.git) | Python, Pandas, Matplotlib | Insightful analysis & visualization of real-world datasets |
-
----
-
-## 🎓 Certifications
-
-- [📘 IBM: Python for Data Science, AI, and Development](https://coursera.org/share/d9d03966d7a7f3508f21be8fc6559da9)  
-- [🔐 IBM: Intro to Cybersecurity Tools & Attacks](https://coursera.org/share/ea54e8c7b3a2b81ad953559df9c3b96a)  
-- [🐍 Infosys: Python Programming](https://drive.google.com/file/d/1di3wjU2n0j2MuU5fBByYMH2UP3BfJ-E2/view?usp=sharing)  
-- [📊 Power BI - Prism Edu Skills](https://drive.google.com/file/d/1lFawJDBOnY3JIUAdqbsTcIP9Oux0kfSf/view?usp=sharing)
+| Area | Technologies |
+| :--- | :--- |
+| **AI / LLM** | LangChain, LangGraph, Model Context Protocol (MCP), RAG, Agentic Workflows, Prompt Engineering |
+| **Backend** | Python, FastAPI, Django, REST API Design, Postman |
+| **Data** | Pandas, NumPy, Matplotlib, MySQL, PostgreSQL, JSON |
+| **Automation** | Power Automate, Copilot Studio, Microsoft Dataverse, SharePoint |
+| **Tooling** | Git, Docker, Jupyter, VS Code |
 
 ---
 
-## 🏆 Achievements
+## Recognition
 
-- 🥇 **1st Rank** – Second Year B.Sc. CS  
-- 🥉 **3rd Rank** – First Year B.Sc. CS  
-- 🎯 Active Member – National Service Scheme (NSS)
-
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <!-- Total GitHub Stats -->
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=xpatilakshay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="350"/>
-    </td>
-    <!-- Streak Stats -->
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=xpatilakshay&theme=tokyonight&hide_border=true" width="350"/>
-    </td>
-  </tr>
-  <tr>
-    <!-- Top Languages -->
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpatilakshay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="350"/>
-    </td>
-    <!-- Contribution Graph -->
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=xpatilakshay&theme=tokyonight&hide_border=true&area=true" width="350"/>
-    </td>
-  </tr>
-</table>
+- **Star of the Month** — Tata Consultancy Services, for the production Go-Live of the autonomous incident-resolution agent
+- **Runner-Up** — TCS AI Fridays, Season 2
+- **B.Sc. Computer Science** — CGPA 9.63, First Class
 
 ---
 
+## Currently
 
+Exploring agentic workflow design and MCP tool schema patterns. Deepening LangGraph state machines and RAG evaluation methodology.
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:xpatilakshay@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/xpatilakshay/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/xpatilakshay"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+Open to **AI Engineer** and **Python Engineer** roles.
 
 ---
 
-⭐ *"Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee*
+<sub>Happy to talk about LangChain, MCP tool design, or LLM parameter tuning — reach me on [LinkedIn](https://www.linkedin.com/in/heyakshaypatil).</sub>
